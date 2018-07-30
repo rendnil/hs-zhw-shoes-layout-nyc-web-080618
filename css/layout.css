@@ -22,6 +22,17 @@
   clear: both;
 }
 
+	
+	#top_left{
+	  
+	  float: left;
+	}
+	
+	#shoe_column{
+	  float: right;
+	}
+	
+
 /* Posititoning Classes */
 
 
