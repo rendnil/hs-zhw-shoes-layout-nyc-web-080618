@@ -26,13 +26,15 @@
 	#top_left{
 	  
 	  float: left;
-	  width: 64%
+	  width: 64%;
+	  height:33%;
 	}
 	
 	#shoe_column{
 	  float: right;
 	  width: 32%;
 	  margin-left: 2%;
+	  height:33%;
 	}
 	
 	#lady_bugs{
