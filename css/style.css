@@ -298,8 +298,16 @@ footer {
 }
 
 	footer a {
-		color: #555;
+		color: #555; s
 		text-decoration: underline;
 	}
+	
+	
+	#top_left{
+	  
+	  float:left;
+	}
+	
+	
 
 /* code examples copyright Jonathan Grover 2012 */
