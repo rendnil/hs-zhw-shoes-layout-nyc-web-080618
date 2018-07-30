@@ -56,6 +56,24 @@
 	  
 	}
 	
+		#contact{
+	  float:left;
+	  width: 32%;
+	  margin-right: 2%;
+	  
+	}
+		#links{
+	  float:left;
+	  width: 32%;
+	  margin-right: 2%;
+	  
+	}
+		#follow{
+	  float:left;
+	  width: 32%
+	  
+	}
+	
 
 /* Posititoning Classes */
 
