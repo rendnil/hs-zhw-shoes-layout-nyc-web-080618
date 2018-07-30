@@ -305,7 +305,11 @@ footer {
 	
 	#top_left{
 	  
-	  float:left;
+	  float: left;
+	}
+	
+	#shoe_column{
+	  float: right;
 	}
 	
 	
