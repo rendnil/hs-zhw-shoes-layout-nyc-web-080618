@@ -26,10 +26,12 @@
 	#top_left{
 	  
 	  float: left;
+	  size: 66.666%
 	}
 	
 	#shoe_column{
 	  float: right;
+	  size: 33.3333%
 	}
 	
 
