@@ -22,6 +22,59 @@
   clear: both;
 }
 
+	
+	#top_left{
+	  float: left;
+	  width: 66%;
+	  height:36em;
+	  margin-bottom:2%;
+	}
+	
+	#shoe_column{
+	  float: right;
+	  width: 32%;
+	  margin-left: 2%;
+	  height:36em;
+	  margin-bottom: 2%;
+	}
+	
+	#lady_bugs{
+	  float:left;
+	  width: 32%;
+	  margin-right: 2%;
+	  
+	}
+		#skaters{
+	  float:left;
+	  width: 32%;
+	  margin-right: 2%;
+	  
+	}
+		#bluestar{
+	  float:left;
+	  width: 32%
+	  
+	}
+	
+		#contact{
+	  float:left;
+	  width: 32%;
+	  margin-right: 2%;
+	  
+	}
+		#links{
+	  float:left;
+	  width: 32%;
+	  margin-right: 2%;
+	  
+	}
+		#follow{
+	  float:left;
+	  width: 32%
+	  
+	}
+	
+
 /* Posititoning Classes */
 
 
