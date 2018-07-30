@@ -34,6 +34,22 @@
 	  width: 33.3333%
 	}
 	
+	#lady_bugs{
+	  float:left;
+	  width: 33.3333%
+	  
+	}
+		#skaters{
+	  float:left;
+	  width: 33.3333%
+	  
+	}
+		#bluestar{
+	  float:right;
+	  width: 33.3333%
+	  
+	}
+	
 
 /* Posititoning Classes */
 
